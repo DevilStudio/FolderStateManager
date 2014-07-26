@@ -1,0 +1,6 @@
+e:\Projects\DevilStudio\FolderStateManager\FolderStateManager\bin\Release\FolderStateManager.exe
+e:\Projects\DevilStudio\FolderStateManager\FolderStateManager\bin\Release\FolderStateManager.pdb
+e:\Projects\DevilStudio\FolderStateManager\FolderStateManager\bin\Release\CommandLine.dll
+e:\Projects\DevilStudio\FolderStateManager\FolderStateManager\obj\x86\Release\FolderStateManager.csprojResolveAssemblyReference.cache
+e:\Projects\DevilStudio\FolderStateManager\FolderStateManager\obj\x86\Release\FolderStateManager.exe
+e:\Projects\DevilStudio\FolderStateManager\FolderStateManager\obj\x86\Release\FolderStateManager.pdb

@@ -1,0 +1,5 @@
+e:\Projects\DevilStudio\FolderStateManager\FolderStateManager\bin\Debug\FolderStateManager.exe
+e:\Projects\DevilStudio\FolderStateManager\FolderStateManager\bin\Debug\FolderStateManager.pdb
+e:\Projects\DevilStudio\FolderStateManager\FolderStateManager\bin\Debug\CommandLine.dll
+e:\Projects\DevilStudio\FolderStateManager\FolderStateManager\obj\x86\Debug\FolderStateManager.exe
+e:\Projects\DevilStudio\FolderStateManager\FolderStateManager\obj\x86\Debug\FolderStateManager.pdb
